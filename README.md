@@ -9,8 +9,8 @@ LLMOps, safety, observability, cost control, compliance, and real-world
 case studies.
 
 ## White Paper
-📄 **Download PDF**  
-(Upload coming shortly)
+📄 [Download PDF](whitepaper/Agentic_AI_LLMOps_Whitepaper_v1.0.pdf)
+
 
 ## Key Topics
 - Agentic AI reference architecture
