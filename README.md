@@ -1,3 +1,5 @@
+This white paper reflects the personal views of the author and does not represent the views or positions of any employer or organization
+
 # LLMOps for Agentic AI
 
 ## Overview
