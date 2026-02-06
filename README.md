@@ -9,7 +9,7 @@ LLMOps, safety, observability, cost control, compliance, and real-world
 case studies.
 
 ## White Paper
-📄 [Download PDF](whitepaper/Agentic_AI_LLMOps_Whitepaper_v1.0.pdf)
+📄[ [Download PDF](whitepaper/Agentic_AI_LLMOps_Whitepaper_v1.0.pdf)](https://github.com/HarshalSant/agentic-ai-llmops-whitepaper/blob/main/whitepaper/Harshal%20Whitepaper%20LLMOps%20for%20Agentic%20AI.pdf)
 
 
 ## Key Topics
