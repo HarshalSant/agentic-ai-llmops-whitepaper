@@ -1,2 +1,30 @@
-# agentic-ai-llmops-whitepaper
-End-to-end technical white paper on designing, operating, and governing Agentic AI systems at enterprise scale, covering architecture, LLMOps, safety, observability, cost, and real-world case studies.
+# LLMOps for Agentic AI
+
+## Overview
+This repository contains a full-length technical white paper on designing,
+operating, and governing agentic AI systems in enterprise environments.
+
+The paper focuses on production realities: architecture, agent runtimes,
+LLMOps, safety, observability, cost control, compliance, and real-world
+case studies.
+
+## White Paper
+📄 **Download PDF**  
+(Upload coming shortly)
+
+## Key Topics
+- Agentic AI reference architecture
+- Control plane vs data plane separation
+- Agent runtime and lifecycle semantics
+- Memory governance and safety
+- Tooling, permissions, and sandboxing
+- Observability and distributed tracing
+- Reliability engineering and failure recovery
+- Cost engineering and FinOps
+- Case studies: self-healing systems and data platforms
+
+## Status
+Version 1.0 – Initial public release
+
+## Author
+Harshal Sant
